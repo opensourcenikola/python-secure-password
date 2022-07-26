@@ -8,12 +8,3 @@ ans = upper_case + lower_case + num + symbol
 length = 20
 password = "".join(random.sample(ans,length))
 print(password)
-
-# You can save your passwords here:        
-# 
-# 
-# 
-# 
-# 
-# 
-# 
